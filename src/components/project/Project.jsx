@@ -1,8 +1,8 @@
 import React from 'react'
 import './project.css'
-import pj1 from '../../assets/Foto2.jpeg'
-import pj2 from '../../assets/Foto2.jpeg'
-import pj3 from '../../assets/Foto2.jpeg'
+import pj1 from '../../assets/th.jpeg'
+import pj2 from '../../assets/th.jpeg'
+import pj3 from '../../assets/th.jpeg'
 
 export const Project = () => {
   return (
@@ -16,28 +16,28 @@ export const Project = () => {
             <img src={pj1} alt="" />
           </div>
           <div className="projectItemCta">
-          <h5><a href="https://github.com" className='btn' target='_blank'>Github</a></h5>
-          <h5><a href="https://github.com" className='btn btn-primary' target='_blank'>Demo</a></h5>
+          <h5><a href="https://github.com" className='btn' >Github</a></h5>
+          <h5><a href="https://github.com" className='btn btn-primary' >Demo</a></h5>
           </div>
         </article>
         <article className='projectItem'>
           <h3>Happy Book Store</h3>
           <div className="projectItemImage">
-            <img src={pj1} alt="" />
+            <img src={pj2} alt="" />
           </div>
           <div className="projectItemCta">
-          <h5><a href="https://github.com" className='btn' target='_blank'>Github</a></h5>
-          <h5><a href="https://github.com" className='btn btn-primary' target='_blank'>Demo</a></h5>
+          <h5><a href="https://github.com" className='btn' >Github</a></h5>
+          <h5><a href="https://github.com" className='btn btn-primary' >Demo</a></h5>
           </div>
         </article>
         <article className='projectItem'>
           <h3>Happy Book Store</h3>
           <div className="projectItemImage">
-            <img src={pj1} alt="" />
+            <img src={pj3} alt="" />
           </div>
           <div className="projectItemCta">
-          <h5><a href="https://github.com" className='btn' target='_blank'>Github</a></h5>
-          <h5><a href="https://github.com" className='btn btn-primary' target='_blank'>Demo</a></h5>
+          <h5><a href="https://github.com" className='btn' >Github</a></h5>
+          <h5><a href="https://github.com" className='btn btn-primary' >Demo</a></h5>
           </div>
         </article>
       </div>
