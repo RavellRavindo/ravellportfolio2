@@ -1,0 +1,28 @@
+header {
+	height: 80vh;
+	padding-top: 12rem;
+	overflow: hidden;
+}
+.headerContainer {
+    height: 100%;
+    text-align: center;
+	position: relative;
+}
+
+.button{
+	padding-top: 0.5rem;
+}
+
+/* Media queries 1024px*/
+@media screen and (max-width: 1042px) {
+    .header {
+       height: 65vh;
+    }
+}
+
+/* Media queries 600px*/
+@media screen and (max-width: 600px) {
+    .header {
+       height: 100vh;
+    }
+}
