@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ravellportfolio2/static/css/main.a9518cfa.css",
-    "main.js": "/ravellportfolio2/static/js/main.a7b95be8.js",
-    "static/media/RavellCV.pdf": "/ravellportfolio2/static/media/RavellCV.42a0dbada51cf335a339.pdf",
+    "main.js": "/ravellportfolio2/static/js/main.8e712181.js",
+    "static/media/CVravell.pdf": "/ravellportfolio2/static/media/CVravell.df5b3158c5a9cd4f6365.pdf",
     "static/media/Foto2.jpeg": "/ravellportfolio2/static/media/Foto2.9ca1a2474628be88b314.jpeg",
     "index.html": "/ravellportfolio2/index.html",
     "main.a9518cfa.css.map": "/ravellportfolio2/static/css/main.a9518cfa.css.map",
-    "main.a7b95be8.js.map": "/ravellportfolio2/static/js/main.a7b95be8.js.map"
+    "main.8e712181.js.map": "/ravellportfolio2/static/js/main.8e712181.js.map"
   },
   "entrypoints": [
     "static/css/main.a9518cfa.css",
-    "static/js/main.a7b95be8.js"
+    "static/js/main.8e712181.js"
   ]
 }
