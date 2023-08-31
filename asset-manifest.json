@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/ravellportfolio2/static/css/main.a9518cfa.css",
-    "main.js": "/ravellportfolio2/static/js/main.8e712181.js",
+    "main.js": "/ravellportfolio2/static/js/main.9112dbec.js",
     "static/media/CVravell.pdf": "/ravellportfolio2/static/media/CVravell.df5b3158c5a9cd4f6365.pdf",
     "static/media/Foto2.jpeg": "/ravellportfolio2/static/media/Foto2.9ca1a2474628be88b314.jpeg",
+    "static/media/ASCbookStore.png": "/ravellportfolio2/static/media/ASCbookStore.d7331e8a9633399ba7a1.png",
+    "static/media/cubetower3D.jpg": "/ravellportfolio2/static/media/cubetower3D.0a28c2dfd88a87eb7d0a.jpg",
+    "static/media/happybirthdaycake3D.jpg": "/ravellportfolio2/static/media/happybirthdaycake3D.058bdecc628a5370e88d.jpg",
     "index.html": "/ravellportfolio2/index.html",
     "main.a9518cfa.css.map": "/ravellportfolio2/static/css/main.a9518cfa.css.map",
-    "main.8e712181.js.map": "/ravellportfolio2/static/js/main.8e712181.js.map"
+    "main.9112dbec.js.map": "/ravellportfolio2/static/js/main.9112dbec.js.map"
   },
   "entrypoints": [
     "static/css/main.a9518cfa.css",
-    "static/js/main.8e712181.js"
+    "static/js/main.9112dbec.js"
   ]
 }
