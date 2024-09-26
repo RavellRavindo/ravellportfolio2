@@ -3,7 +3,7 @@ import './skills.css'
 import {BiLogoHtml5,BiLogoCss3,BiLogoBootstrap,BiLogoJavascript,BiLogoReact,
   BiLogoMongodb,BiLogoNodejs,BiLogoVisualStudio,BiLogoGithub} from 'react-icons/bi'
 import {TbBrandNextjs,TbBrandLaravel} from 'react-icons/tb'
-import {SiInsomnia} from 'react-icons/si'
+import {SiInsomnia,SiMysql,SiPostman} from 'react-icons/si'
 
 export const Skills = () => {
   return (
@@ -57,6 +57,10 @@ export const Skills = () => {
               <h1><BiLogoNodejs/></h1> 
               <h4>NodeJS</h4>
             </article>
+            <article className='mySkill'>
+              <h1><SiMysql /></h1> 
+              <h4>MySQL</h4>
+            </article>
           </div>
         </div>
 
@@ -74,6 +78,10 @@ export const Skills = () => {
           <article className='mySkill'> 
             <h1><SiInsomnia/></h1>
             <h4>Insomnia</h4>
+          </article>
+          <article className='mySkill'> 
+            <h1><SiPostman /></h1>
+            <h4>Postman</h4>
           </article>
           </div>
         </div>
